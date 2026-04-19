@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I’m Ege Aydemir
 
-<!--
-**egeaydemirr/egeaydemirr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I started as a Mobile Developer focused on React Native, and evolved into building AI-driven software production systems.
 
-Here are some ideas to get you started:
+Today, I design agentic workflows and multi-agent architectures that automate and orchestrate software delivery across mobile, UI, and backend teams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do
+
+- Build LLM-powered development workflows
+- Design AI-assisted engineering pipelines for enterprise environments
+- Improve developer productivity and delivery quality through automation
+- Architect scalable React Native and full-stack systems
+
+## Current Focus
+
+- Agentic Workflows and Multi-Agent Systems
+- LLM-based Development Automation
+- AI-Driven Software Production Pipelines
+- React Native and Mobile Architecture
+- System Design and Engineering Efficiency
+
+## Featured Projects
+
+- Full-Stack Automation Playground  
+  Experimental AI tooling for code generation, validation, and consistency checks  
+
+## Tech
+
+- Languages: TypeScript, JavaScript
+- Mobile: React Native
+- Frontend: React, Next.js
+- Tooling: Docker, CI/CD, GitHub Actions
+- AI: LLM Integrations, Prompt Workflows, Multi-Agent Orchestration
+
+## Philosophy
+
+I’m interested in next-generation engineering ecosystems where software is not just written, but orchestrated.
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/egeaydemirr
+- GitHub: https://github.com/egeaydemirr
+- Email: egeaydemirr97@gmail.com
